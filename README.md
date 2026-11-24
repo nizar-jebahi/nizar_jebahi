@@ -26,6 +26,9 @@ I enjoy combining software engineering, AI research, and practical development t
 - Java
 - JavaScript
 - TypeScript
+- Vue.js
+- C++
+- C#
 
 **Artificial Intelligence & Machine Learning**
 - TensorFlow
